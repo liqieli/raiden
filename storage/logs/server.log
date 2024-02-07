@@ -1,9 +1,0 @@
-2024-02-07 17:43:08.371967000	[31merror[0m	/Users/qimao/tangbo/github/raiden/internal/repository/repository.go:61	failed to initialize database, got error dial tcp 127.0.0.1:3380: connect: connection refused
-github.com/liqieli/raiden/internal/repository.NewDB
-	/Users/qimao/tangbo/github/raiden/internal/repository/repository.go:61
-github.com/liqieli/raiden/cmd/server/wire.NewWire
-	/Users/qimao/tangbo/github/raiden/cmd/server/wire/wire_gen.go:28
-main.main
-	/Users/qimao/tangbo/github/raiden/cmd/server/main.go:36
-runtime.main
-	/Users/qimao/.gvm/gos/go1.22.0/src/runtime/proc.go:271
